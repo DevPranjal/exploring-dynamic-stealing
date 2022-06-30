@@ -4,7 +4,7 @@ Work at Bosch AIShield where I explore model extraction into dynamic neural netw
 
 Final presentation: https://devpranjal.github.io/summer-intern
 
-## Experiments
+#### Experiments
 
 `baseline_dfme.py`: Baseline DFME with static student
 
